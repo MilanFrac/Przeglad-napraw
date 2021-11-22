@@ -66,9 +66,8 @@
                     <td colspan="3"><xsl:value-of select="zakonczenie_naprawy/data"/></td>
                     <td colspan="2"><xsl:value-of select="zakonczenie_naprawy/godzina"/></td>
                 </tr>
-                
             </table> 
-            </xsl:for-each>
+        </xsl:for-each>
         </body>
         </html>
 </xsl:template>
