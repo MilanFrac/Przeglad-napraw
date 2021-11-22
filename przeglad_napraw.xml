@@ -95,4 +95,34 @@
 			<godzina>13:30:00</godzina>
 		</zakonczenie_naprawy>
 	</naprawa>
+	<naprawa id="528">
+		<ogolne>
+			<urzadzenie>Samsung A51</urzadzenie>
+			<usterka>Wymiana gniazda ładowania</usterka>
+			<cena>200</cena>
+			<folia_ochronna>nie</folia_ochronna>
+			<typ_naprawy>stacjonarna</typ_naprawy>
+		</ogolne>
+		<opis>
+			<opis_glowny>Prawdopodobne uszkodzenie, wstępna diagnoza</opis_glowny>
+			<opis_wewnetrzny></opis_wewnetrzny>
+			<imei>20938418</imei>
+			<kod_blokady>792043</kod_blokady>
+		</opis>
+		<dane_klienta>
+			<imie>Krzysztof</imie>
+			<nazwisko>Łodyga</nazwisko>
+			<numer_telefonu>593020483</numer_telefonu>
+			<adres>
+				<kod_pocztowy></kod_pocztowy>
+				<miasto></miasto>
+				<ulica></ulica>
+				<nr_domu></nr_domu>
+			</adres>
+</dane_klienta>
+		<zakonczenie_naprawy>
+			<data>2021-11-24</data>
+			<godzina>17:30:00</godzina>
+		</zakonczenie_naprawy>
+	</naprawa>
 </xs:przeglad_napraw>
